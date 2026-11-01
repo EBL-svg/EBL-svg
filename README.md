@@ -23,13 +23,27 @@ My interests include signal processing, computer vision, deep learning, and the 
 
 **Development:** Git, Linux, Jupyter, LaTeX
 
-### 🚀 Featured Project
 
-**Real-Time Facial Expression Recognition Using RGB-D Vision**
+### 🚀 Featured Projects
 
-Collaborative academic project investigating multimodal deep learning for facial expression classification, using TinyViT, EfficientNetV2, attention mechanisms, and RGB-D imaging.
+#### 🧠 MEG Source Localization — Inverse Problems & Neuroimaging
+
+Collaborative academic project exploring magnetoencephalography (MEG) source reconstruction using MNE-Python. Implemented custom Minimum Norm Estimation (MNE) and weighted MNE (wMNE) solvers using the Woodbury formulation, with cortical activity visualization and inverse-method comparisons.
+
+**Tech Stack:** Python · MNE-Python · NumPy · SciPy · Signal Processing · Inverse Problems
+
+[Explore the project](https://github.com/EBL-svg/meg-source-localization)
+
+---
+
+#### 👁️ Real-Time Facial Expression Recognition Using RGB-D Vision
+
+Collaborative Master's capstone project investigating multimodal deep learning for facial expression recognition using RGB images and depth information. Explored TinyViT-based gated fusion, EfficientNetV2-S with CBAM attention, and real-time inference with a ZED stereo camera.
+
+**Tech Stack:** Python · PyTorch · Computer Vision · TinyViT · EfficientNetV2 · RGB-D · YOLOv8
 
 [Explore the project](https://github.com/EBL-svg/rgbd-facial-expression-recognition)
+
 
 ### 🎯 Current Opportunities
 
